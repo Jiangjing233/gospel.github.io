@@ -2,9 +2,6 @@
     "title": "Gospel Light",
     "subTitle": "Bringing Hope and Truth to Every Corner",
     "avatarUrl": "https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION" :"last",
-    "style":"<style>#postBody{font-size:20px}</style>",
-    "script":"<a href="https://v.taiwanbible.com/taiwanbible/webmaster/BibleTools.jsp" onclick="return hs.htmlExpand(this, { objectType: 'iframe', wrapperClassName: 'draggable-header full-size', height: 2500 } )"><img src="https://v.taiwanbible.com/taiwanbible/webmaster/bibletool/6.jpg" 
-border="0">
-</a>"
+    "GMEEK_VERSION" : "last",
+
 }
