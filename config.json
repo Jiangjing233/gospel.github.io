@@ -2,6 +2,7 @@
     "title": "Gospel Light",
     "subTitle": "Bringing Hope and Truth to Every Corner",
     "avatarUrl": "https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION" :"last"
-    "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
+    "GMEEK_VERSION" :"last",
+    "style":"<style>#postBody{font-size:20px}</style>",
+    "script":"<script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'></script>"
 }
