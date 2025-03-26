@@ -7,7 +7,8 @@ My name is Jing, As a Christian, the purpose of establishing this blog is to sha
 
 ## Bible 
 ### online
-`Gmeek-html<<iframe frameborder="no" framespacing="0" height="1000" src="https://www.bible.com/bible" width="85%"></iframe>></iframe>`
+`Gmeek-html<<iframe src="https://www.bible.com/bible" frameborder="0" scrolling="yes" width="100%" height="1500"></iframe>`
+
 
 ### Download Traditional Chinese Version 
 [Bible_TC.pdf](https://github.com/user-attachments/files/19458005/Bible_TC.pdf)
