@@ -12,7 +12,7 @@ My name is Jiang. As a Christian, the purpose of establishing this blog is to sh
 
 ## 圣经 Bible
 ### 在线 online
-`Gmeek-html<<iframe id="responsiveIframe" src="https://www.bible.com/bible/47/JHN.1.CUNPSS-%25E4%25B8%258A%25E5%25B8%259D" width=500 height=800 style="border: none;"></iframe>
+`Gmeek-html<<iframe id="responsiveIframe" src="https://www.bible.com/bible/47/JHN.1.CUNPSS" width=500 height=800 style="border: none;"></iframe>
 `
 
 
