@@ -1,6 +1,9 @@
 <html>
 <body>
-<!--StartFragment-->
+<!--StartFragment--><html><head></head><body>
+<hr>
+<h1>逾越节（除酵节，初熟的果子）</h1>
+<h1>Passover (Feast of Unleavened Bread, Firstfruits)</h1>
 <p>2025年4月12日宰杀逾越节羔羊，4月13-19日除酵节<br>
 The Passover lamb will be slaughtered on April 12, 2025, and the Feast of Unleavened Bread will be from April 13 to 19.</p>
 <p>圣经历正月（也称为亚笔月和尼散月）14日是逾越节，15-21日是除酵节。<br>
@@ -47,7 +50,7 @@ April 20, 2025, Nisan 22, Eighth Day of Passover: Deuteronomy 15:19-16:17; Numbe
 The Hebrew for Passover is "Pesach", which means "to pass over", referring to God's judgment passing over.</p>
 <p>逾越节虽然是犹太人的历史，但是圣经利未记23:5-8中很清楚的说明是耶和华的节期、耶和华的逾越节，不仅仅是犹太人的节期。<br>
 Although Passover is part of Jewish history, Leviticus 23:5-8 clearly states it is the Lord’s festival, the Lord’s Passover, not merely a Jewish festival.</p>
-<blockquote node="[object Object]">
+<blockquote>
 <p>利未记23:5-8<br>
 Leviticus 23:5-8</p>
 </blockquote>
@@ -79,7 +82,7 @@ Passover foreshadows the redemption by Jesus Christ, which is especially signifi
 <h2>1. Passover and the Feast of Unleavened Bread</h2>
 <p>出埃及记12章讲到以色列人出埃及，神要他们在正月10日，每家预备一只逾越节的羔羊：<br>
 Exodus 12 speaks of the Israelites leaving Egypt. God commanded them to prepare a Passover lamb for each family on the 10th day of the first month:</p>
-<blockquote node="[object Object]">
+<blockquote>
 <p>出埃及记12:3<br>
 Exodus 12:3</p>
 </blockquote>
@@ -97,7 +100,7 @@ The Hebrew word for "twilight" means "between the evenings"—about 3 pm, which 
 When the Israelites slaughtered the Passover lamb, they would cut the lamb’s neck, let the blood flow out, and put the blood on the doorposts and lintel.</p>
 <p>当夜，也就是正月15日晚上，神的使者审判埃及全地，门框上有羔羊血的家庭，就蒙神赦免，神的使者就越过；门框上没有羔羊血的家庭，神的审判就临到，击杀家中一切头生的人和牲畜。这就是这个节期称为逾越节的原因。<br>
 That night, the night of the 15th, God’s angel judged all Egypt. The families with lamb’s blood on their doors were spared; those without were struck, killing every firstborn person and animal. That is why the festival is called "Passover."</p>
-<blockquote node="[object Object]">
+<blockquote>
 <p>出埃及记12:13<br>
 Exodus 12:13</p>
 </blockquote>
@@ -113,7 +116,7 @@ In Leviticus 23, God also set the 15th to the 21st of the first month as the Fea
 <h2>2. The Feast of Firstfruits</h2>
 <p>除酵节期间还有一个节期叫初熟的果子，记载在利未记23章9到12节：<br>
 During the Feast of Unleavened Bread, there is another festival called the Feast of Firstfruits, recorded in Leviticus 23:9-12:</p>
-<blockquote node="[object Object]">
+<blockquote>
 <p>利未记23:9-12<br>
 Leviticus 23:9-12</p>
 </blockquote>
@@ -137,14 +140,23 @@ According to the Bible, the Passover schedule is as follows. Traditionally, Jews
 正月21日 | 除酵节，安息日 |  
 
 
-<hr>
+Date | Event | Fulfillment in Jesus Christ
+-- | -- | --
+10th of month | Selection of Passover Lamb | Jesus enters Jerusalem
+14th | Passover (Lamb slain) | Jesus crucified, died, buried
+15th | Passover, Unleavened Bread, Sabbath | Burial
+16th | Unleavened Bread, Firstfruits | Resurrection
+17th-21st | Unleavened Bread |  
+21st | Unleavened Bread, Sabbath |  
+
+
 <h2>逾越节和耶稣基督</h2>
 <h2>Passover and Jesus Christ</h2>
 <h3>三，耶稣基督是逾越节的羔羊</h3>
 <h3>3. Jesus Christ is the Passover Lamb</h3>
 <p>在哥林多前书第5章第7节，这里说耶稣是逾越节的羔羊，为了人的罪，被杀献祭。<br>
 1 Corinthians 5:7 says Jesus is our Passover Lamb, sacrificed for our sins.</p>
-<blockquote node="[object Object]">
+<blockquote>
 <p>哥林多前书5:7<br>
 1 Corinthians 5:7</p>
 </blockquote>
@@ -153,14 +165,14 @@ According to the Bible, the Passover schedule is as follows. Traditionally, Jews
 — 1 Corinthians 5:7</p>
 <p>按照神的时间，耶稣来到耶路撒冷过逾越节。他先来到耶路撒冷东边的城市伯大尼。正月10日，耶稣离开伯大尼，从东边进入耶路撒冷，这正是犹太人选取逾越节羔羊的时间：<br>
 According to God’s timing, Jesus came to Jerusalem for Passover. He first came to Bethany, east of Jerusalem. On the 10th, He entered Jerusalem from the east, precisely when Jews select the Passover lamb:</p>
-<blockquote node="[object Object]">
+<blockquote>
 <p>约翰福音12:1<br>
 John 12:1</p>
 </blockquote>
 <p>逾越节前六日，耶稣来到伯大尼，就是他叫拉撒路从死里复活之处。<br>
 "Six days before the Passover, Jesus came to Bethany, where Lazarus lived, whom Jesus had raised from the dead."<br>
 — John 12:1</p>
-<blockquote node="[object Object]">
+<blockquote>
 <p>约翰福音12:12-13<br>
 John 12:12-13</p>
 </blockquote>
@@ -173,7 +185,7 @@ John 12:12-13</p>
 Many Israelites came to Jerusalem for the festival, heard of Jesus, saw what He had done, and welcomed the Messiah, the King of Israel, into Jerusalem to bring salvation.</p>
 <p>接着，耶稣接受法利赛人，文士，祭司的详细考察询问，看他是不是弥赛亚。在正月14日的晚上和门徒一同吃逾越节最后的晚餐，之后被抓，受审。正月14日白天的时候被钉十字架。<br>
 Then Jesus was questioned by the Pharisees, scribes, and priests to see if He was the Messiah. On the night of the 14th, He ate the last Passover supper with His disciples, was arrested, tried, and crucified during the day of the 14th.</p>
-<blockquote node="[object Object]">
+<blockquote>
 <p>马太福音27:45-46<br>
 Matthew 27:45-46</p>
 </blockquote>
@@ -185,7 +197,7 @@ Matthew 27:45-46</p>
 — Matthew 27:50</p>
 <p>这里耶稣在正月14日的申初死在十字架上。申初就是下午3点的时候，也就是犹太人宰杀逾越节羔羊的时间。所以耶稣基督是神预备的逾越节的羔羊。当晚耶稣基督被埋葬，第三日死里复活。<br>
 Here, Jesus died on the cross at about 3 pm on the 14th, the very time the Passover lambs were sacrificed. Therefore, Jesus is the Passover Lamb prepared by God. That evening He was buried, and on the third day He rose from the dead.</p>
-<blockquote node="[object Object]">
+<blockquote>
 <p>马太福音28:1<br>
 Matthew 28:1</p>
 </blockquote>
@@ -197,7 +209,7 @@ Matthew 28:1</p>
 — Matthew 28:5-7</p>
 <p>第三天是正月16日，刚好是初熟的果子，在这一日耶稣基督从死里复活。<br>
 The third day was the 16th, the Feast of Firstfruits, the very day Jesus rose from the dead.</p>
-<blockquote node="[object Object]">
+<blockquote>
 <p>哥林多前书15:23<br>
 1 Corinthians 15:23</p>
 </blockquote>
@@ -207,7 +219,9 @@ The third day was the 16th, the Feast of Firstfruits, the very day Jesus rose fr
 <p>保罗在哥林多前书中称耶稣基督的复活是初熟的果子，意味着耶稣是第一个复活的，等时候到了，还有许多的信徒要和耶稣一样复活。<br>
 Paul calls Jesus’ resurrection the "firstfruits," meaning Jesus was the first to rise, and many believers will follow in His resurrection.</p>
 <p>总而言之，神藉着逾越节的节期让我们看见耶稣基督按照神的时间受死，埋葬，复活，以至于我们知道他就是神所预备的羔羊，是基督。<br>
-In summary, through the Passover festival, God shows us that Jesus Christ died, was buried, and rose again according to God’s timing, so that we may know He is the Lamb provided by God, the Christ.</p><!--EndFragment-->
+In summary, through the Passover festival, God shows us that Jesus Christ died, was buried, and rose again according to God’s timing, so that we may know He is the Lamb provided by God, the Christ.</p>
+<hr>
+</body></html><!--EndFragment-->
 </body>
 </html>
 
